@@ -1,1 +1,5 @@
 .python-version
+/logs*
+target/
+dbt_packages/
+logs/
